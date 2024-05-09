@@ -1,7 +1,7 @@
 
 - Hello, my name is Onur Mergen .This is my minesweeper project and here is the link of my project;
 
-https://github.com/Onur-Web/MineSweeper
+[https://github.com/Onur-Web/MineSweeper](https://github.com/Onur-Web/Minefield)
 -
 
 - This project is a minesweeper game created for educational and entertainment purposes using Java.
