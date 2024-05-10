@@ -164,8 +164,8 @@ public class MineSweeper {
 
         ////////////////////////////////////
         //kopya çekmek için aktif edilebilir
-        //minefield.printActualGameArea();
-        //System.out.println();
+        minefield.printActualGameArea();
+        System.out.println("------------");
         ////////////////////////////////////
 
         while (!minefield.getGameOver()) {
